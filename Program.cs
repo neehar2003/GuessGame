@@ -1,7 +1,7 @@
 ﻿string secretWord = "giraffe";
 string guess = "";
 int guessCount = 0;
-int guessLimit = 3;
+int guessLimit = 4;
 bool outOfGuesses = false;
 
 while (guess != secretWord && !outOfGuesses)
