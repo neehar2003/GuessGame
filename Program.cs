@@ -1,4 +1,4 @@
-﻿string secretWord = "giraffe";
+﻿string secretWord = "bravo";
 string guess = "";
 int guessCount = 0;
 int guessLimit = 3;
